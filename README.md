@@ -1,1 +1,1 @@
-# [DavidJPriestley.com](https://priestleydj.github.io)
+# [davidjpriestley.com](https://priestleydj.github.io)
