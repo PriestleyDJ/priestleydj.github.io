@@ -1,5 +1,5 @@
 export default function AboutMe() {
   return (
-    <h1>About Me</h1>
+    <h1 className="text-7xl font-semibold">About Me</h1>
   )
 }
