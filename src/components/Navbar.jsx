@@ -1,7 +1,7 @@
 export default function Navbar() {
   return (
-    <>
-      <h1 className="text-center outline">Navbar</h1>
-    </>
+    <div className="outline">
+      <h1 className="text-center">Navbar</h1>
+    </div>
   )
 }

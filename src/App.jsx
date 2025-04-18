@@ -9,6 +9,7 @@ import ContactMe from "./sections/ContactMe.jsx"
 function App() {
   return (
     <div>
+      <Navbar />
       <div className="min-h-screen w-full flex flex-col items-center justify-center">
         <section className="min-h-screen w-full flex bg-blue-300 items-center justify-center">
           <Home />
